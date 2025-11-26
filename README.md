@@ -1,2 +1,3 @@
 # Demo
-Over first repository
+My first repo
+Welcome Gogate Jogalekar College
